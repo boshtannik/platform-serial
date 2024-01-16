@@ -1,6 +1,6 @@
 [package]
 name = "platform-serial"
-version = "1.0.0"
+version = "1.0.1"
 edition = "2021"
 description = "platform-serial is the generic trait of generic serial interface for embedded-nano-mesh crate"
 authors = ["Yevhen Shevchenko (boshtannik) <boshtannik@gmail.com>"]
@@ -14,4 +14,4 @@ categories = ["embedded", "no-std", "date-and-time"]
 
 [dependencies]
 embedded-hal = "0.2.7"
-nb = "1.1.0"
+nb = "0.1.3"
