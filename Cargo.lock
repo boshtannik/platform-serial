@@ -29,7 +29,7 @@ checksum = "8d5439c4ad607c3c23abf66de8c8bf57ba8adcd1f129e699851a6e43935d339d"
 
 [[package]]
 name = "platform-serial"
-version = "1.0.1"
+version = "1.0.2"
 dependencies = [
  "embedded-hal",
  "nb 0.1.3",
